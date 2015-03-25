@@ -1,0 +1,1 @@
+Redwood is a web content filter (somewhat like Dansguardian) that runs as an HTTP proxy.
